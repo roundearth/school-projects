@@ -1,2 +1,3 @@
 # school-projects
-Releasing all the code I use in school as free software even though noone will ever need it. Why? It sounded like a funny joke :D
+How I feel releasing my school projects as free software even though they probably won't ever serve any practical purpose
+![image](https://user-images.githubusercontent.com/52424029/227284933-33a8fd17-995c-4603-b964-161e7d577620.png)
